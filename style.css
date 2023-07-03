@@ -1,0 +1,28 @@
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+.container {
+    margin:0px;
+    padding:0px;
+    background-color: blanchedalmond;
+}
+.image-add {
+    background-image:url(school.jpg);
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-position:center;
+    background-size:cover;
+}
+.nav-color{
+background-color:rgba(0, 0, 0, 0.3);
+}
+.header-btn {
+    height:100vh;
+}
+
+a {
+    color:red;
+}
